@@ -3,7 +3,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=madalion&show_icons=true&theme=buefy" alt="Andy's github stats" />
 
 ### Hi there 👋 
-#### I'm QingYun, a software engineer at a Internet company. I'm interested in `cloud native`.
+#### I'm QingYun, a software engineer at a E-commerce company. I'm interested in `Cloud Native` and `Hardware`.
 
 ### Project
 
